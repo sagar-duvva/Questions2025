@@ -242,6 +242,8 @@ There were More Scenario Questions Related to "Load Balancers",
 "Route 53", and "EKS and DB Automation and Administration"
 
 
+=================================================================================================================>
+
 how you ensure the best possible security for high availability architectures for 3 tier applications.
 Diff b/w SGs and NACLs.
 what is VPC peering.
@@ -284,7 +286,7 @@ What is the difference between EKS vs ECS vs Fargate?
 How can you delete the last 2 git commits?
 
 
-
+============================================================================================>
 1) What will happen if the k8 master node and worker node firewall gets broken? Will the existing deployments work or impact on any new deploymentsHow will you communicate to people
 2)How to use the secrets in kubernetes? What encryption methods do you use?
 3) How does the GSLB load balancer work?
@@ -304,7 +306,7 @@ Write a shell script to find and delete all files in a directory that are older 
 Create a script to monitor the disk usage of a server. If usage exceeds 80%, log the details to a file and send an alert email.
 Write a script that renames all .txt files in a directory by appending the current date to the filename.
 
-
+================================================================>
 1)What is the difference between NSG and Firewall.
 2)What is the difference between COPY and ADD command in Docker File.
 3)What is Taint/Tolerent.
@@ -327,7 +329,7 @@ Write a script that renames all .txt files in a directory by appending the curre
 20)Types of Service in Kubernetes.
 21)Namespaces in Kubernetes.
 
-
+=========================================================================>
 Introduction
 Whats ur organisation current cicd process and tools
 What do u know about Cyberark and what and how u r consuming that in ur pipeline
@@ -350,6 +352,8 @@ About Fargate
 What is lambda functions? did u used any Lambda functions? what did u acheived from that?
 
 
+==========================================================>
+
 NatWest Group
 
 about Maven release
@@ -370,7 +374,7 @@ What is the difference between vertical and horizontal scaling?
 What is the role of continuous integration?
 
 
-
+================================================================================>
 1st round Interview Questions asked for AWS Cloud Engineer role..
 
 Explain OSI models
@@ -381,6 +385,8 @@ What factor motivates you for this role?
 6, Explain how you did your cloud migration
 
 
+
+====================================================================>
 
 1st round Interview Questions asked for SRE role..
 
@@ -393,6 +399,7 @@ How we monitor cpu matrics in grafana?
 How do you grant access to user?
 
 
+===========================================================================>
 From one of the linkedin post > interview experience happened yesterday (08-02-2025). . 1. Write a Terraform code to create multiple S3 buckets
 How you managed statefile
 So how are you managing the conflict? State file conflicts
@@ -412,4 +419,61 @@ What is the difference between Security groups and NACL?
 
 Two AWS accounts are there in same organisation. Account A has Ec2 instance and Account B has some tokens.  Need to access the tokens from Ec2 instance.
 How can achieve the requirement?
+
+==================================================================================>
+Oracle Interview Questions 
+
+Experience - 8 years's
+
+What's the purpose of using init containers in K8s
+Stateful vs deployment in k8s
+Configmap VS secrets 
+Pod Distribution budget in k8s
+Explain me all the steps for multi stage docker image
+Cron expression to schedule a job in Linux
+What are the layer's you will get in Docker while building 
+When you're trying to deploy a POD, it's  throwing an error, how will you investigate.
+How to deploy a POD into a certain NODE?
+Explain me all the components present under deployment.yaml file
+If TF statefile is corrupted, how to fix it ?
+TF Lifecycle (create / after destroy) 
+
+============================================================================>
+TCS-: 
+What is jfrog artifactory 
+what is ansible tower 
+what is nagios , how to integerate jenknins in nagios
+what is ansible tower 
+what is ansible roles 
+what is jinja2 template 
+what is jfrog xray 
+what is jfrog uses cases 
+how to find the mount point space of linux
+what are the ansible modules you have used 
+diff between github repo and jfrog 
+what is branching stargery 
+what is differnet type repo in jfrog 
+
+====================================================================================>
+HCL-: 
+what is diff between pv and pvc
+Expalin kuberenets arthciecture 
+what is diff between deployment and statefullset 
+what is calico 
+what is etcd
+how to take bakcup of kubenretes cluster 
+how to upgrade eks clusetr
+what is rolling update 
+what is deployment statgergy you are using 
+can we run 1 conatiner with 2 pods
+what is statefullset 
+terraform have you build the vm 
+what is ingress controller 
+Supoose you have taked etcd backup and old vm corrupted ,can we create new vm with backup etcd ?
+what are steps to upgrade eks cluster 
+Suppose you have  in satetfull 3 pods which having name mongo-0 , mongo-1, mongo-2 what happen if mongo-0 dies when new pod will create what will be pod new name ?
+have you worked on argo cd , helm 
+suppose we have pods 2 running in rolling updates some are in deployments set and some pods are in statefull set , how rolling updates strategy will work here  ? 
+what is docker multisatge , why it is used and all 
+grafana have you worked 
 
