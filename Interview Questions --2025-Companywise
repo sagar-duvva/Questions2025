@@ -477,3 +477,15 @@ suppose we have pods 2 running in rolling updates some are in deployments set an
 what is docker multisatge , why it is used and all 
 grafana have you worked 
 
+
+============================================================>
+CTS-:
+Also for question 4 is the answer the below?
+Check the status of nginx/apache service that was used to host the web app
+Check if any firewall/security group rules are blocking the flow of traffic
+Ping/telnet won't make sense since networking side is fine
+Clearing cache/cookies from browser for stale enteries
+Do nslookup for dns resolution if that works fine
+Check SSL certificate if it has gone corrupt and is working fine
+Lack of memory on the web app server due to which it is failing to load the resources for the app
+
