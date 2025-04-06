@@ -30,7 +30,7 @@ How to run a yaml manifest without a yaml manifest file created.
 
 
 ==============================================>
-L1 round done with HCL for 4-5 YOE role
+L1  HCL for 4-5 YOE role
 
 What is git branching strategy used in your organisation
 How deployment is done in different environment using git repo
@@ -110,12 +110,12 @@ L1 Questions:
  1️⃣3️⃣ How do you enable passwordless authentication between two servers?
 
 ==============================================================>
-Just attended interview with EY
+Just attended interview Y
 Introduction
 Explain current project 
 Asked about k8s ( deployment, services, and configs) 
 How to integrate grafana with prometheus
-Terraform lifecycle
+Terraform
 Service mesh
 Pod disruption budget
 Git sqash
