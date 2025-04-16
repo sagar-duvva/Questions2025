@@ -544,4 +544,64 @@ CI-CD pipeline in details
 jenkinsfile stages
 VPC 
 
+=======================================
+Nisum Technologies:
+
+explain CI/CD pipeline
+what is scrapper?
+can we deploy services on master node?
+Did you upgraded any services?
+what is deployment stratergy that you are following?
+what is differnece between COPY and ADD commands ?
+How do you fix security issues in Docker images?
+what is difference between content and tuple in terraform?
+Any experience on phython/shell scripting? can you explain one file?
+Any expercience on ansible?
+Expalin about fargate?
+If you pod is not running, how do you troubleshoot it?
+what is diffrence between list and string in terraform?
+Did you worked on helm charts?
+ 
+
+===================================
+Capegemini interview for 6+ yrs overall experience (considering 3 yrs in devops)
+
+How to assign memory to pod and how to make sure if pod should not get memory constraint. What to do if it happens.
+How to pass variable in azure pipeline? how to parameterize pipeline
+What is availability zone and explain the layout on ground level.(in depth)
+How mysql will interact with azure key vault and it should happen thru privately and should not go anything on public
+Diff between git fetch and git pull (what happens in background in depth)
+What happens behind the hood when git add command is provided. File is added but what happens in the background how git knows on this command it has to add file. ( in dept related to git database)
+
+
+=======================
+Company: Commonwealth Bank
+Role: Principal SRE, EX1-4-5 Yrs
+1) What is observability architecture? Can you explain it?
+2) What is DNS? When you type google.com. What exactly happening in the background?
+3) What is the difference between observability
+and monitoring?
+4) When we have logs, why we need trace?
+5) How SLA, SLO are set in an application?
+Don't give me the formula. Just explain it in from business prospective?
+6) How do you decide SLI in an application?
+7) Explain metrics, log and trace including all used tools?
+8) How observability will help in maintainingside reliability?
+
+=========================
+Rapidsoft L1 - Overall 10.5 years work ex. Devops. 4 -5 years of devops experience
+
+What things have you worked and your experience in brief?
+Terraform has errors while provisioning infrastructure. How to do investigate those? Basically how do you validate the terraform file
+In ansible if you need to execute something as root user how do you that?
+Your CI/CD pipeline has failed in jenkins. How do you investigate?
+How do you store sensitive information like passwords in jenkins?
+You have a multi-cloud environment. How do you manage pipelines for all those cloud environments?
+How would you structure disaster recovery for your applciation?
+How would you perform database migration for your database application?
+You have a crashbackloop error. How would you fix this error?
+Difference between deployment and stateful sets?
+Explain terms in deployment.yml file in kubernetes
+How you worked on docker swarm before? 
+
 
