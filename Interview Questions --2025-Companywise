@@ -24,9 +24,7 @@ Difference between code quality and code coverage.
 What is default qualitygate in sonar
 How to run a yaml manifest without a yaml manifest file created.
 
-
-
-==========================================================================================>
+===============================================================================================================================================================================================================>
 Company:HCL 
 exp--> 4-5 
 
@@ -42,10 +40,7 @@ Where do you write the code/yaml file for pipeline
 What is inside docker file
 How to schedule pipeline, lets say i have validated the pipeline with some update and i want to schedule it to stage/main branch, how to do? (This also someone explain)
 
-
-
-
-===============================================>
+=======================================================================================================================================================================================================================>
 Company:Blue Yoner-: 
 •    How do you use Azure Key vault's secrets in AKS?
 •    How will the application(container/pod) fetch the latest(rotated) secrets form azure vault.
@@ -58,7 +53,7 @@ Company:Blue Yoner-:
 •    How do you manage data of stateless application?
 •    How do you do you integrate And  EntraID with your AKS for authentication?
 
-==============================================================>
+==========================================================================================================================================================================================================================>
  Company:Wipro-:
 
 What is your day to day activity
@@ -72,25 +67,24 @@ Scenario based includes 3 sub-questions
 a) If any service is down for more than 2 weeks and customer is asking for update, what will you tell to customer?
 b) How to troubleshoot the issue and what will be checked during the process
 c) what steps to take so that the issue will not happen in future 
-
 Contents written inside docker file
 Contents written inside deployment.yaml or heml chart
 
-
-==========================================================>
+=============================================================================================================================================================================================================================>
 L1 Questions:
-1️⃣ In Git, explain the push and pull commands.
- 2️⃣ What is the use of Git tags?
- 3️⃣ What are the different types of branches in Git?
- 4️⃣ How do you write an Ansible playbook, and what client requirements do you consider?
- 5️⃣ In Python, what are lists and tuples, and how do they differ?
- 6️⃣ In CloudWatch, what is the use of log groups and log trails?
- 7️⃣ In Terraform, what is the purpose of init, plan, and apply commands?
- 8️⃣ What happens if the Terraform state file is accidentally deleted?
- 9️⃣ What is the purpose of creating S3 bucket policies?
- 🔟 How do you maintain the lifecycle of an S3 bucket?
- 1️⃣1️⃣ In Airflow, if a job fails, how do you debug it?
- 1️⃣2️⃣ If you're facing performance issues on a server, how do you troubleshoot?
+
+ In Git, explain the push and pull commands.
+ What is the use of Git tags?
+ What are the different types of branches in Git?
+ How do you write an Ansible playbook, and what client requirements do you consider?
+In Python, what are lists and tuples, and how do they differ?
+In CloudWatch, what is the use of log groups and log trails?
+In Terraform, what is the purpose of init, plan, and apply commands?
+What happens if the Terraform state file is accidentally deleted?
+What is the purpose of creating S3 bucket policies?
+How do you maintain the lifecycle of an S3 bucket?
+In Airflow, if a job fails, how do you debug it?
+If you're facing performance issues on a server, how do you troubleshoot?
 
 🔥 L2 Questions:
 1️⃣ What are Network ACLs and Security Groups, and how do they differ?
@@ -107,7 +101,7 @@ L1 Questions:
  1️⃣2️⃣ How do you print the last 15 lines of a file in Linux?
  1️⃣3️⃣ How do you enable passwordless authentication between two servers?
 
-==============================================================>
+=============================================================================================================================================>
 Company:E&Y -:
 
 Introduction
@@ -121,8 +115,8 @@ Git sqash
 Git rebase
 Purpose of Docker
 
-=====================================================================>
-startup company -:
+============================================================================================================================================================================>
+Company:startup company -:
 Intro
 Whats ur organisation current cicd process and tools
 How comfortable with AWS and how much rate urself out of 5?
@@ -137,7 +131,7 @@ did u configure Prometheus and Grafana?
 What securities measures/tools u were taken in ur cicd pipeline?
 about RBAC 
 
-=======================================>
+=================================================================================================================================================================================================>
 Company:Infosys -:
 
 1.Introduce yourself 
@@ -156,7 +150,7 @@ Company:Infosys -:
 14.have you worked on production deployment activity ?
 15.how frequently do we deploy to production in your current project
 
-======================================================================>
+======================================================================================================================================================================================================================>
 Company:Infosys -:
 
 Introduction 
@@ -185,9 +179,9 @@ How do you handle disk, CPU alerts
 What all Kuberntes issues you have worked on
 If any pod/node goes down how do you troubleshoot/monitor that( via cluster and other monitoring tools)
 
-
-================================================================>
+=====================================================================================================================================================================================================================>
  Company:CTS-: 
+
 What is connection drain
 Backend.tf file is showing in repo but it is not showing in storage account, what may be the issue
 How to login VM if VM has private IP
@@ -196,8 +190,7 @@ Types of load balancers
 What is Az App Gateway and how it encrypt http/https traffic
 App is down and throwing 503 err code, what steps should be taken
 
-
-=====================================================================>
+========================================================================================================================================================================================================================>
 1.) How many NAT Gateways are needed for two public & two private
 subnets n a single VPC? Min & max?
 2.) Explain TTL in DNS- how does it work, and when do we use it?
@@ -222,8 +215,7 @@ you debug the issue?
 There were More Scenario Questions Related to "Load Balancers",
 "Route 53", and "EKS and DB Automation and Administration"
 
-
-=================================================================================================================>
+============================================================================================================================================================================================================================>
 
 how you ensure the best possible security for high availability architectures for 3 tier applications.
 Diff b/w SGs and NACLs.
@@ -267,7 +259,8 @@ What is the difference between EKS vs ECS vs Fargate?
 How can you delete the last 2 git commits?
 
 
-============================================================================================>
+================================================================================================================================================================================================================>
+
 1) What will happen if the k8 master node and worker node firewall gets broken? Will the existing deployments work or impact on any new deploymentsHow will you communicate to people
 2)How to use the secrets in kubernetes? What encryption methods do you use?
 3) How does the GSLB load balancer work?
@@ -287,7 +280,7 @@ Write a shell script to find and delete all files in a directory that are older 
 Create a script to monitor the disk usage of a server. If usage exceeds 80%, log the details to a file and send an alert email.
 Write a script that renames all .txt files in a directory by appending the current date to the filename.
 
-================================================================>
+===========================================================================================================================================================================================================>
 1)What is the difference between NSG and Firewall.
 2)What is the difference between COPY and ADD command in Docker File.
 3)What is Taint/Tolerent.
@@ -310,7 +303,7 @@ Write a script that renames all .txt files in a directory by appending the curre
 20)Types of Service in Kubernetes.
 21)Namespaces in Kubernetes.
 
-=========================================================================>
+==============================================================================================================================================================================================================>
 Introduction
 Whats ur organisation current cicd process and tools
 What do u know about Cyberark and what and how u r consuming that in ur pipeline
@@ -332,9 +325,7 @@ About Prometheus/Grafana
 About Fargate
 What is lambda functions? did u used any Lambda functions? what did u acheived from that?
 
-
-===================================================================================================>
-
+===================================================================================================================================================================================>
 Company:NatWest Group -: 
 
 about Maven release
@@ -345,8 +336,8 @@ what will happen with maven install
 what are the types of branching stratergy u r using
 in which directory or in which place ur pom.xml there 
 
-===============================================================================================================>
- Company:Wikreate Media -:
+=================================================================================================================================================================================>
+Company:Wikreate Media -:
 
 Use of Route53
 Git stash
@@ -354,9 +345,7 @@ Difference between S3 and EBS
 difference between git fetch and git pull
 What is the difference between vertical and horizontal scaling?
 What is the role of continuous integration?
-
-
-================================================================================>
+=======================================================================================================================================================================================>
  AWS Cloud Engineer role -:
 
 Explain OSI models
@@ -364,12 +353,9 @@ How do you did cost optimization in AWS?
 Explain on Lambda, CFT, Data Storage, S3 ?
 How do you implement best security policies on AWS?
 What factor motivates you for this role?
-6, Explain how you did your cloud migration
+Explain how you did your cloud migration
 
-
-
-====================================================================>
-
+=================================================================================================================================================================================================>
  SRE role -:
 
 Commands used for Kubernetes,Docker and Ansible..
@@ -380,8 +366,7 @@ Explain how you build CICD pipeline..
 How we monitor cpu matrics in grafana?
 How do you grant access to user?
 
-
-===========================================================================>
+=======================================================================================================================================================================================================>
 From one of the linkedin post > 
 interview experience happened yesterday (08-02-2025). 
 
@@ -401,11 +386,10 @@ So how many types of policy, IAM policy are there? IAM policies?
 So what is the difference between the S3 bucket policies and acls?
 what is the dynamic auto scaling?
 What is the difference between Security groups and NACL?
-
 Two AWS accounts are there in same organisation. Account A has Ec2 instance and Account B has some tokens.  Need to access the tokens from Ec2 instance.
 How can achieve the requirement?
 
-==================================================================================>
+=============================================================================================================================================================================>
 Company:Oracle  
 Experience - 8 years's
 
@@ -422,9 +406,10 @@ Explain me all the components present under deployment.yaml file
 If TF statefile is corrupted, how to fix it ?
 TF Lifecycle (create / after destroy) 
 
-============================================================================>
+==========================================================================================================================================================================================================>
 Company: TCS-: 
 Exp -9 yrs devops rel-4yrs
+
 What is jfrog artifactory 
 what is ansible tower 
 what is nagios , how to integerate jenknins in nagios
@@ -439,8 +424,9 @@ diff between github repo and jfrog
 what is branching stargery 
 what is differnet type repo in jfrog 
 
-====================================================================================>
+===============================================================================================================================================================================================================>
 Company: HCL-: 
+
 what is diff between pv and pvc
 Expalin kuberenets arthciecture 
 what is diff between deployment and statefullset 
@@ -462,9 +448,9 @@ suppose we have pods 2 running in rolling updates some are in deployments set an
 what is docker multisatge , why it is used and all 
 grafana have you worked 
 
-
-============================================================>
+=================================================================================================================================================================================================>
 Company:CTS-:
+
 Also for question 4 is the answer the below?
 Check the status of nginx/apache service that was used to host the web app
 Check if any firewall/security group rules are blocking the flow of traffic
@@ -474,7 +460,7 @@ Do nslookup for dns resolution if that works fine
 Check SSL certificate if it has gone corrupt and is working fine
 Lack of memory on the web app server due to which it is failing to load the resources for the app
 
-========================================================================================>
+======================================================================================================================================================================================>
 Company:uk ---:
 
 /var partition is 90% full. What’s your immediate action?
@@ -491,7 +477,7 @@ Terraform script to provision an EC2 instance with a custom security group and u
 Design a highly available backend on AWS – what services and architecture would you use?
 
 
-=========================================================================================================>
+====================================================================================================================================================================================>
 Company:Emphasis-:
 
 I attended interview for devops role, they were asking very basic questions about devops & aws.
@@ -505,8 +491,6 @@ From where is the image pulled when you use docker pull image?
 How is the image pulled from private repository
 What is ingress in Kubernetes
 Explain CI/CD pipeline and its stages
-
-
 
 ==============================================================================================================>
 Devops interview questions
@@ -549,9 +533,9 @@ what is diffrence between list and string in terraform?
 Did you worked on helm charts?
  
 
-===================================
+============================================================================================================================================================================================================>
 Company:Capegemini 
-YOE- 6+ yrs overall experience (considering 3 yrs in devops)
+Exp- 6+ yrs overall experience (considering 3 yrs in devops)
 
 How to assign memory to pod and how to make sure if pod should not get memory constraint. What to do if it happens.
 How to pass variable in azure pipeline? how to parameterize pipeline
@@ -560,10 +544,11 @@ How mysql will interact with azure key vault and it should happen thru privately
 Diff between git fetch and git pull (what happens in background in depth)
 What happens behind the hood when git add command is provided. File is added but what happens in the background how git knows on this command it has to add file. ( in dept related to git database)
 
-
-=======================
+==================================================================================================================================================================================================================>
 Company: Commonwealth Bank
-Role: Principal SRE, EX1-4-5 Yrs
+Exp-4-5 Yrs
+Role: Principal SRE
+
 1) What is observability architecture? Can you explain it?
 2) What is DNS? When you type google.com. What exactly happening in the background?
 3) What is the difference between observability
@@ -575,8 +560,9 @@ Don't give me the formula. Just explain it in from business prospective?
 7) Explain metrics, log and trace including all used tools?
 8) How observability will help in maintainingside reliability?
 
-=========================
-Rapidsoft L1 - Overall 10.5 years work ex. Devops. 4 -5 years of devops experience
+========================================================================================================================================================================>
+Company:Rapidsoft 
+Exp-: 10.5 years work ex. Devops. 4 -5 years of devops experience
 
 What things have you worked and your experience in brief?
 Terraform has errors while provisioning infrastructure. How to do investigate those? Basically how do you validate the terraform file
@@ -591,10 +577,11 @@ Difference between deployment and stateful sets?
 Explain terms in deployment.yml file in kubernetes
 How you worked on docker swarm before? 
 
+==============================================================================================================================================================================================================>
+Company:Epam 
+Exp--> 9 years devops -4yrs 
 
-==================
-Epam -:L1 9 years devops -4yrs 
-================
+
 1.How to Create and Use Custom Resources in Kubernetes
 what are name spaces in k8s
 what is difference between deployment and statefulset
@@ -623,59 +610,33 @@ difference between cmd and entrypoint
 17.what contains inside vat and opt in linux.
 writ a script to search a pattern as 'error' and warning in test.log file. store the pattern with error in one file and  'warning' in another file. pass test.log in the argument
 
-
-
-=============================================
-NUOS INFO Systems -:--4yrs exp
+=======================================================================================================================================================================================================================>
+Company:NUOS INFO Systems 
+Exp--4yrs 
 Tech stack— mainly around Terraform, Azure, DevOps, Docker, and Git
 
 
-🔧 Terraform & Azure:
-
 How do you scale a Terraform pipeline that takes 25+ mins?
-
 What happens to the Terraform state file if someone deletes resources from Azure?
-
 If the pipeline fails due to existing resources, how do you handle RIP (Remove, Import, Plan)?
-
 How do you export Azure resources into Terraform code?
-
 How do you enforce Azure Policies (like tag or location restrictions) using Terraform at scale?
-
-🚀 DevOps & CI/CD:
-
 Best practices to structure repos and pipelines in a large DevOps project?
-
 Pipeline fails only on Tuesdays, no code changes — how do you debug?
-
 Logs are incomplete — how would you troubleshoot across AKS, Ingress, App, and Infra?
-
 How to monitor Azure VM memory and alert if it crosses 80%?
-
-🐳 Docker & Tools:
-
 How to write a multistage Dockerfile for a Node.js app — removing secrets and unnecessary layers?
-
 Recommended tools for CI/CD, artifact storage, vulnerability scanning, and container registry in a hybrid (on-prem + Azure) setup?
-
-🧭 Migration & Security:
-
 How do you assess Azure DevOps migration readiness and plan the transition?
-
 How do you manage AWS + Azure using a single DevOps process with focus on security & cost?
-
 How would you use Azure DevOps REST API to apply a security policy to all repos programmatically?
-
-🔁 Git:
-
 What’s the difference between Git Merge and Rebase?
-
 If someone force-pushed and lost the main branch, how do you recover it?
-
 How to push the recovered branch back to remote?
 
-==============================================================================
-Netcracker-: - 7 Years experience - DevOps role
+====================================================================================================================================================================>>
+Company:Netcracker-: 
+Exp- 7 Years - DevOps role
 
 Diff between mount and directories in Linux
 How will you restart http service from VM
@@ -700,9 +661,9 @@ I've two PODS in diff worker nodes, can they communicate ?
 How to restrict the communication between them ? → network policy
 What component should be added in network policy YAML file
 
-
-===================================================================
-Zensar interview ---: Q for 6+ years exp
+================================================================================================================================================================>
+Company:Zensar 
+Exp-:6+ years
 
 What is service connection/connection string
 How to set alerts in azure monitor (explain steps and configuration that u do)
@@ -725,8 +686,9 @@ What is ingress
 In terms of Cost optimisation which one should we use, Az App gateway or network gateway?
 
 
-=========================================================
-CTS -: 
+================================================================================================================================================>
+Company:CTS -: 
+
 What is connection drain
 Backend.tf file is showing in repo but it is not showing in storage account, what may be the issue
 How to login VM if VM has private IP
@@ -736,8 +698,8 @@ What is Az App Gateway and how it encrypt http/https traffic
 App is down and throwing 503 err code, what steps should be taken
 
 
-===============================================
-Hexaware interview questions 
+===================================================================================================================================================================>
+Company:Hexaware 
 Exp--4-5yrs 
 
  1.write yaml pipeline for ci/cd (overall structure) 
@@ -757,8 +719,8 @@ Exp--4-5yrs
  14.what are the files available inside helm chart
 
 
-========================================
-Arrise Solutions 
+======================================================================================================================================================================================>
+Company:Arrise Solutions 
 Exp--7 yrs
 
 Explain me about three tier architecture 
@@ -793,9 +755,8 @@ I've a client and remote machine, how do certs communicate b/w them ?
 How does SSL certs works
 
 
-=======================
-CTS -: 
-
+================================================================================================================================>
+Company:CTS -: 
 EXP-->
 How do you manage terrform state file
 How would you design an architecture for a 2 tier application 
