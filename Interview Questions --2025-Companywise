@@ -725,6 +725,78 @@ What is Az App Gateway and how it encrypt http/https traffic
 App is down and throwing 503 err code, what steps should be taken
 
 
+===============================================
+Hexaware interview questions 
+Exp--4-5yrs 
+
+ 1.write yaml pipeline for ci/cd (overall structure) 
+ 2.what is the command for auto approval in terraform 
+ 3.what is deployment.yml
+ 4.what is service.yml
+ 5.what is replica set
+ 5.what is the output of helm chart
+ 6.what is storage explorer
+ 7.how do you set approval in cd pipeline
+ 8.what are the branching strategies you use 
+ 9.have you written any automation scripts in your daily tasks 
+ 10.how do you moved the code from one environment to other environment 
+ 11.what is variable group in azure devops
+ 12.what is sonarqube and which purpose it is used for 
+ 13. Write sample terraform code (overall skeleton)
+ 14.what are the files available inside helm chart
+
+
+========================================
+Arrise Solutions 
+Exp--7 yrs
+
+Explain me about three tier architecture 
+Diff b/w ALB and NLB in depth 
+How to connect a VPC in AWS to VPC in IBM Cloud
+Diff b/w Public and Private subnet 
+How to connect your private subnet with Internet 
+Does NAT gateway will run in public or private subnet
+K8s architecture 
+CoreDNS in k8s
+What’s the purpose of CNI
+How does kube-proxy communicates with nodes
+Purpose of scheduler in k8s
+Layers in Docker
+Diff b/w using VM vs Docker
+Types of storage drivers in Docker
+Types of networking in Docker and explain in detail
+Does Docker have kernel in place
+C name and namespace in docker
+Which network will be used to isolate a communication b/w two containers
+How to check the linux process
+Booting in Linux
+How to check load of linux machine
+While rebooting a Linux machine, what are the stages / layers will be restarted
+Kernel logs are stored under which directory 
+How to kill the running process
+States of Linux machine
+When you type google.com, what will happen at backend in browser 
+When you type TOP command, what are the components will be displayed
+CloudFront 
+I've a client and remote machine, how do certs communicate b/w them ?
+How does SSL certs works
+
+
+=======================
+CTS -: 
+
+EXP-->
+How do you manage terrform state file
+How would you design an architecture for a 2 tier application 
+Difference between subnet and nacl
+Difference between nat gateway and internet gateway
+How would trigger pipeline B in jenkins automatically after pipeline B
+How will you know if a network policy is enabled or not in k8s
+Difference between cluster role and cluster role binding
+What will happen when a IaC managed resource is modified manually, how would you avoid it
+Difference between daemonset and state full set
+How would you set up networking in vpc
+How you will direct traffic to and from a instance in private subnet
 
 
 
