@@ -1,4 +1,8 @@
-Techdome telephonic interview questions =================>>>>
+================================
+Interview questions year 2025-:
+===============================
+
+**Company:Techdome -:
 
 1)Kubernetes architecture
 2)Deployment vs stateful set
@@ -8,9 +12,9 @@ Techdome telephonic interview questions =================>>>>
 6)Docker image vs container
 7)Docker bind mount vs volume 
 
-=====================================>
-  LTIMindtree -:
-Here are the questions :
+==================================================================================>
+Company:LTIMindtree -:
+
 Can we install docker inside a container.
 If we have created 3 instances using terraform script and the instance names are mentioned as a list
 Suppose we removed 2nd instance name from the list and applied script again then what will happen to the already 3 instances created before.
@@ -22,8 +26,9 @@ How to run a yaml manifest without a yaml manifest file created.
 
 
 
-==============================================>
-L1  HCL for 4-5 YOE role
+==========================================================================================>
+Company:HCL 
+exp--> 4-5 
 
 What is git branching strategy used in your organisation
 How deployment is done in different environment using git repo
@@ -41,7 +46,7 @@ How to schedule pipeline, lets say i have validated the pipeline with some updat
 
 
 ===============================================>
-Blue Yoner : 
+Company:Blue Yoner-: 
 •    How do you use Azure Key vault's secrets in AKS?
 •    How will the application(container/pod) fetch the latest(rotated) secrets form azure vault.
 •    How do you integrate SonarQube & Snyk in Azure pipeline.
@@ -54,7 +59,7 @@ Blue Yoner :
 •    How do you do you integrate And  EntraID with your AKS for authentication?
 
 ==============================================================>
-Just now finished my Wipro Interview L1 discussion 
+ Company:Wipro-:
 
 What is your day to day activity
 If there is file which is being used by 2 customers, and need to deploy that file in k8s cluster and on prem as well, how to do that?
@@ -103,7 +108,8 @@ L1 Questions:
  1️⃣3️⃣ How do you enable passwordless authentication between two servers?
 
 ==============================================================>
-Just attended interview E&Y
+Company:E&Y -:
+
 Introduction
 Explain current project 
 Asked about k8s ( deployment, services, and configs) 
@@ -116,7 +122,7 @@ Git rebase
 Purpose of Docker
 
 =====================================================================>
-Justy attended interview with startup company, below u can find the questions
+startup company -:
 Intro
 Whats ur organisation current cicd process and tools
 How comfortable with AWS and how much rate urself out of 5?
@@ -132,8 +138,8 @@ What securities measures/tools u were taken in ur cicd pipeline?
 about RBAC 
 
 =======================================>
-Infosys interview questions 
-Round 1
+Company:Infosys -:
+
 1.Introduce yourself 
 2.git commands used in day to day activities
 3.write sample docker file
@@ -151,8 +157,8 @@ Round 1
 15.how frequently do we deploy to production in your current project
 
 ======================================================================>
-Infosys
-Technical Round 1 Questions
+Company:Infosys -:
+
 Introduction 
 Current Company project related questions
 What task and activities do you do on daily basis
@@ -181,8 +187,7 @@ If any pod/node goes down how do you troubleshoot/monitor that( via cluster and 
 
 
 ================================================================>
-Highlighting Questions faced in Cognizant interview yesterday
-
+ Company:CTS-: 
 What is connection drain
 Backend.tf file is showing in repo but it is not showing in storage account, what may be the issue
 How to login VM if VM has private IP
@@ -328,9 +333,9 @@ About Fargate
 What is lambda functions? did u used any Lambda functions? what did u acheived from that?
 
 
-==========================================================>
+===================================================================================================>
 
-NatWest Group
+Company:NatWest Group -: 
 
 about Maven release
 about maven lifecycle
@@ -340,8 +345,9 @@ what will happen with maven install
 what are the types of branching stratergy u r using
 in which directory or in which place ur pom.xml there 
 
+===============================================================================================================>
+ Company:Wikreate Media -:
 
-Here are the interview questions I was asked during my telephonic interview at Wikreate Media: 
 Use of Route53
 Git stash
 Difference between S3 and EBS
@@ -351,7 +357,7 @@ What is the role of continuous integration?
 
 
 ================================================================================>
-1st round Interview Questions asked for AWS Cloud Engineer role..
+ AWS Cloud Engineer role -:
 
 Explain OSI models
 How do you did cost optimization in AWS?
@@ -364,7 +370,7 @@ What factor motivates you for this role?
 
 ====================================================================>
 
-1st round Interview Questions asked for SRE role..
+ SRE role -:
 
 Commands used for Kubernetes,Docker and Ansible..
 Explain Kubernetes Structure, Config Map and Schedular..
@@ -376,7 +382,10 @@ How do you grant access to user?
 
 
 ===========================================================================>
-From one of the linkedin post > interview experience happened yesterday (08-02-2025). . 1. Write a Terraform code to create multiple S3 buckets
+From one of the linkedin post > 
+interview experience happened yesterday (08-02-2025). 
+
+Write a Terraform code to create multiple S3 buckets
 How you managed statefile
 So how are you managing the conflict? State file conflicts
 what you did with Jenkins?
@@ -397,8 +406,7 @@ Two AWS accounts are there in same organisation. Account A has Ec2 instance and 
 How can achieve the requirement?
 
 ==================================================================================>
-Oracle Interview Questions 
-
+Company:Oracle  
 Experience - 8 years's
 
 What's the purpose of using init containers in K8s
@@ -415,7 +423,8 @@ If TF statefile is corrupted, how to fix it ?
 TF Lifecycle (create / after destroy) 
 
 ============================================================================>
-TCS-: 
+Company: TCS-: 
+Exp -9 yrs devops rel-4yrs
 What is jfrog artifactory 
 what is ansible tower 
 what is nagios , how to integerate jenknins in nagios
@@ -431,7 +440,7 @@ what is branching stargery
 what is differnet type repo in jfrog 
 
 ====================================================================================>
-HCL-: 
+Company: HCL-: 
 what is diff between pv and pvc
 Expalin kuberenets arthciecture 
 what is diff between deployment and statefullset 
@@ -455,7 +464,7 @@ grafana have you worked
 
 
 ============================================================>
-CTS-:
+Company:CTS-:
 Also for question 4 is the answer the below?
 Check the status of nginx/apache service that was used to host the web app
 Check if any firewall/security group rules are blocking the flow of traffic
@@ -465,7 +474,8 @@ Do nslookup for dns resolution if that works fine
 Check SSL certificate if it has gone corrupt and is working fine
 Lack of memory on the web app server due to which it is failing to load the resources for the app
 
-uk ---:
+========================================================================================>
+Company:uk ---:
 
 /var partition is 90% full. What’s your immediate action?
 You’re locked out via SSH with no root access. How do you recover?
@@ -481,8 +491,8 @@ Terraform script to provision an EC2 instance with a custom security group and u
 Design a highly available backend on AWS – what services and architecture would you use?
 
 
-===============
-Emphasis-:
+=========================================================================================================>
+Company:Emphasis-:
 
 I attended interview for devops role, they were asking very basic questions about devops & aws.
 Explain components in 3-tier architecture
@@ -498,7 +508,7 @@ Explain CI/CD pipeline and its stages
 
 
 
-===============================================================
+==============================================================================================================>
 Devops interview questions
 What is docker file what is inside it 
 Why K8 instead of docker swam
@@ -520,8 +530,8 @@ CI-CD pipeline in details
 jenkinsfile stages
 VPC 
 
-=======================================
-Nisum Technologies:
+=================================================================================================================>
+Company:Nisum Technologies:
 
 explain CI/CD pipeline
 what is scrapper?
@@ -540,7 +550,8 @@ Did you worked on helm charts?
  
 
 ===================================
-Capegemini interview for 6+ yrs overall experience (considering 3 yrs in devops)
+Company:Capegemini 
+YOE- 6+ yrs overall experience (considering 3 yrs in devops)
 
 How to assign memory to pod and how to make sure if pod should not get memory constraint. What to do if it happens.
 How to pass variable in azure pipeline? how to parameterize pipeline
