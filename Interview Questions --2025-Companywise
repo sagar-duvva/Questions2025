@@ -87,19 +87,19 @@ In Airflow, if a job fails, how do you debug it?
 If you're facing performance issues on a server, how do you troubleshoot?
 
 🔥 L2 Questions:
-1️⃣ What are Network ACLs and Security Groups, and how do they differ?
- 2️⃣ Explain EC2 instances and handling multiple VPCs.
- 3️⃣ How do you configure AWS RDS, and what factors do you consider (size, requirements, etc.)?
- 4️⃣ How much data is stored in your RDS MySQL?
- 5️⃣ How many masters and slaves are in RDS?
- 6️⃣ How do you configure a Grafana dashboard?
- 7️⃣ What kind of CI/CD pipelines are you familiar with?
- 8️⃣ Explain Declarative vs. Scripting pipelines.
- 9️⃣ In Kubernetes, if a pod is in a pending state, how do you troubleshoot?
- 🔟 If Docker containers are consuming too much disk space, how do you fix it?
- 1️⃣1️⃣ In Linux, how do you attach and detach a filesystem?
- 1️⃣2️⃣ How do you print the last 15 lines of a file in Linux?
- 1️⃣3️⃣ How do you enable passwordless authentication between two servers?
+ What are Network ACLs and Security Groups, and how do they differ?
+ Explain EC2 instances and handling multiple VPCs.
+ How do you configure AWS RDS, and what factors do you consider (size, requirements, etc.)?
+  How much data is stored in your RDS MySQL?
+  How many masters and slaves are in RDS?
+  How do you configure a Grafana dashboard?
+  What kind of CI/CD pipelines are you familiar with?
+  Explain Declarative vs. Scripting pipelines.
+  In Kubernetes, if a pod is in a pending state, how do you troubleshoot?
+ If Docker containers are consuming too much disk space, how do you fix it?
+  In Linux, how do you attach and detach a filesystem?
+  How do you print the last 15 lines of a file in Linux?
+ How do you enable passwordless authentication between two servers?
 
 =============================================================================================================================================>
 Company:E&Y -:
@@ -117,7 +117,7 @@ Purpose of Docker
 
 ============================================================================================================================================================================>
 Company:startup company -:
-Intro
+
 Whats ur organisation current cicd process and tools
 How comfortable with AWS and how much rate urself out of 5?
 about IAM/Fargate/EC2/Lambda?
@@ -191,27 +191,18 @@ What is Az App Gateway and how it encrypt http/https traffic
 App is down and throwing 503 err code, what steps should be taken
 
 ========================================================================================================================================================================================================================>
-1.) How many NAT Gateways are needed for two public & two private
-subnets n a single VPC? Min & max?
-2.) Explain TTL in DNS- how does it work, and when do we use it?
-Explain the Flow.
+1.) How many NAT Gateways are needed for two public & two private subnets n a single VPC? Min & max?
+2.) Explain TTL in DNS- how does it work, and when do we use it? Explain the Flow.
 3.) How does weighted routing work in LB?
-4.) How Docker is operable on a Linux machine? Explain the docker
-architecture components
-5.) There are 1 Master & 3 Worker nodes- if the master fails, what
-happens? Will pods keep running or they will crash?
-6.) In K8s, as etcd is a key-value store db, can write something
-manually on it?
+4.) How Docker is operable on a Linux machine? Explain the docker architecture components
+5.) There are 1 Master & 3 Worker nodes- if the master fails, what happens? Will pods keep running or they will crash?
+6.) In K8s, as etcd is a key-value store db, can write something manually on it?
 7.) How to roll back a failed deployment in Docker & K8s?
-8.) How does SSL work (Certbot, Let's Encrypt, AWS)? Explain the
-Flow.
+8.) How does SSL work (Certbot, Let's Encrypt, AWS)? Explain the Flow.
 9.) What are the top 5 infra attacks, and how do you mitigate them?
 10.) If the tfstate file is lost, what do you do? With & without backup?
-11.) In Linux systems there is the term Load Average? what does that
-mean? how it is being calculated? and in what format the load average
-output is?
-12.) One of your worker nodes is not joining the cluster. How would
-you debug the issue?
+11.) In Linux systems there is the term Load Average? what does that mean? how it is being calculated? and in what format the load average output is?
+12.) One of your worker nodes is not joining the cluster. How would you debug the issue?
 There were More Scenario Questions Related to "Load Balancers",
 "Route 53", and "EKS and DB Automation and Administration"
 
@@ -346,7 +337,7 @@ difference between git fetch and git pull
 What is the difference between vertical and horizontal scaling?
 What is the role of continuous integration?
 =======================================================================================================================================================================================>
- AWS Cloud Engineer role -:
+AWS Cloud Engineer role -:
 
 Explain OSI models
 How do you did cost optimization in AWS?
@@ -356,7 +347,7 @@ What factor motivates you for this role?
 Explain how you did your cloud migration
 
 =================================================================================================================================================================================================>
- SRE role -:
+SRE role -:
 
 Commands used for Kubernetes,Docker and Ansible..
 Explain Kubernetes Structure, Config Map and Schedular..
@@ -757,7 +748,7 @@ How does SSL certs works
 
 ================================================================================================================================>
 Company:CTS -: 
-EXP-->
+Exp->
 How do you manage terrform state file
 How would you design an architecture for a 2 tier application 
 Difference between subnet and nacl
