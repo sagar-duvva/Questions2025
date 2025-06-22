@@ -1216,3 +1216,89 @@ OSI models ?
 Diff b/w Public and Private hosted zones
 How will you create Kustomize file
 Diff b/w CMD & ENTRYPOINT
+
+========================================================
+Company---Syncortex
+Exp---5yrs  Release engineer
+
+Block, release_on in Ansible
+Ansible command to view log during execution
+If you have two different VMs,, how will you modify your playbook for diff requirement?
+Taint and Tolerations
+If you want your developers to use only authorized images, what can we do ?
+How will you investigate POD failure
+How will you implement multi region Terraform code
+What are the parameters are used for HPA in K8s?
+How will take a backup of K8s clusters regularly
+How will you make sure EC2 is not deleted while running destroy command.
+
+=================================
+Company-- Persistent Systems
+Exp---9YOE DevOps - 5YOE
+
+K8s ---
+Explain your current project and your activities in it.
+K8s Architecture.
+How do you upgrage k8s cluster.
+Pod Affinity and Node Affinity.
+HPA & VPA.
+GitHub Actions ---
+What is GitHub Actions Matrix strategy.
+How caching works in Github Actions.
+what is Stale branch.
+AWS ---
+ACM
+CloudTrail
+CloudFront
+CloudFormation.
+Cloud watch & how do you create a custom metric in AWS CloudWatch.
+How do you login to the ec2 instance if you've lost the .pem key?
+Public and Private Subnet, what makes it public and private??
+Where does NATGateway reside. 
+=============================================================================================
+Company--Oracle 
+Exp----7 YOE - DevOps Engineer
+How do you give access to the user for a namespace in kubernetes cluster
+What is ingress and why are you using istio ?
+Explain me the three tier architecture
+What are the types of services and explain each
+What is custom resource definition
+What are the kubernetes resources you know
+What is the role of container runtime and which runtime do you use and why?
+What is reverse proxy
+What is traffic mirroring in istio
+
+
+==================================================
+Company-Persistent system 
+Exp----13 YOE -rele- 5yr DevOps Engineer
+ 1.Design an high availability and redundancy three tier architecture in azure
+2.Suppose you are having an e-commerce application  and slowness is there how will you troubleshoot 
+3.Design three architecture for front end and react js and backend as node js , which are the services you will use it in azure
+4.What are the steps involved in creating in azure devops pipeline 
+5.What is github actions 
+6.In azure monitor which metrics is used for monitoring kubernetes
+7.What is the module approach in terraform, explain on it
+8.Suppose there are 1000 of lines in terraform, as a period of time it grows, it becomes slow in future, how to approach this issue, please explain 
+9.Have you worked on python , 
+
+===============================================================================================
+Company----Synechron
+Exp----13 YOE - 5yr DevOps Engineer
+
+What is azure board, what are the things inside it 
+What is pom.xml in maven
+Share your screen - write the structure of azure pipeline 
+Share your screen - write simple dockerfile 
+How to troubleshoot if pod is failed in AKS, commands please
+What is terraform drift command
+What are the different types of azure storage 
+How will you store credentials in azure pipelines
+What are the different types of subscriptions in azure
+How will you implement dc/dr in azure – which are the services you will be using it
+What are the all the issues you had faced in your project, please explain 
+Will you register app service first or deploy it
+Have you used any scripting language for automation purpose 
+What is azure artifact 
+What is self hosted agent and Microsoft host agent 
+Docker cmd and entrypoint difference, how to configure sonarqube with azure
