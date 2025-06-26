@@ -1302,3 +1302,132 @@ Have you used any scripting language for automation purpose
 What is azure artifact 
 What is self hosted agent and Microsoft host agent 
 Docker cmd and entrypoint difference, how to configure sonarqube with azure
+
+=====================================================================================================>
+Company----Sonata Software
+Exp---- 5yr DevOps Engineer
+1.what is the difference between application gateway and front door
+2.how do you protect your endpoints in AKS
+what is the networking you are using in AKS
+4.how do you do cost optimization in cloud
+5.how do you implement to block an particular domain in application gateway 
+6.how will write terraform module
+7.how do you upgrade an module in terraform 
+8.share your screen and write terraform structure please
+9.how do you monitor if pods goes down
+10.which metrics is being used when cpu or memory  goes beyond 75% in vm
+11.where do you store the application gateway (TLS/SSL certificate) ?
+12.what is the time you will take to write an IAC code and deploy to app service ?
+13.how do you build ci/cd pipeline in azure devops 
+14.suppose you are using SQL db, there cpu goes beyond 75% how do you upgrade it
+15.have you ever used terraform cloud
+16.do you use helmchart for AKS deployements
+
+======================================================================================================================
+Company----Accolite Interview Questions:
+Exp---- 3yr DevOps Engineer
+
+Write a script to monitor a directory and print the names of new files added every minute. -->In Python
+What is the difference between set and list in python(Counter question of the above)
+You have two tables:
+  Customers(customer_id, customer_name)
+  Orders(order_id, customer_id, order_date, amount)
+ Write a SQL query to find the names of customers who placed more than 3 orders in the last 90 days.
+Write a Python function that takes a list of dictionaries representing job logs. The function should return a list of job IDs where the "status" is "FAILED".
+Example:
+logs = [
+("job_id": 101, "status":
+"SUCCESS", "timestamp":
+"2025-06-10T10:00:00"), ("job_id": 102, "status":
+"FAILED", "timestamp":
+"2025-06-10T10:05:00"), ("job_jd": 103, "status":
+"FAILED", "timestamp":
+*2025-06-10T10:10:00"),
+"job_jd": 104, "status":
+"SUCCESS", "imestamp";
+"2026-06-10T10:16:00")]
+
+What is CICD and explain in briefly
+Explain  kubernetes Architecture and component and their uses.
+Note -: Guy,s in Every question, they asked to explain in briefly and the code and how it using and what will be outputs. 
+
+=====================================================
+Company----LTI Mindtree
+Exp---5 year
+1.write terraform script for creating app service in azure or write terraform script to create lambda in aws 
+2.create 3 different images and store it in ecr or acr, deploy to eks or aks - write kubernetes yml files
+3.explain branching strategy 
+4.you have an application gateway, services which is in backend is good, you are getting 404 error ,how do you troubleshoot further 
+5.what is the difference between firewall and nsg
+
+=========================================================================================
+Company----Snychron 
+Exp---- 3yr DevOps Engineer
+Tell me the difference between Docker and Docker Compose ?
+Tell me about  Docker Compose and Kubernetes ?
+Tell me about the ADD and COPY commands ?
+Explain to me Terraform architecture ?
+What is backend ?
+What is the difference between Find and sed ?
+How to find the 10th word  in a file ?
+How to moitor the system performance?
+What is CICD?
+Any challenges have you faced in CI/CD in your team, Tell me about it. How did you overcome this?
+What is Blue Ocean in  Jenkin ?
+How to configure the Flask in Jenkin, tell me procedure ?
+Tell me the difference betweeen Cloud watch and CloudFormation ?
+How  will you create the Custom alerts, tell me the procedure.
+What is ACM and S3 ?
+What is Ansibler galaxy ?
+Tell me Kubernet architecture  ?
+What is SLI and SLO ?
+What is Monkey Patching?
+Have you worked on SRE ?
+Tell me the difference betweeen DEVOPS and SRE ?
+
+==============================================================================================>>>>
+Capgemini
+Exp-9yrs 5yrs in devops 
+1. What is an Ansible playbook?
+2. How to install Ansible on Ubuntu and RedHat, and start services?
+3. How to create 3 users and map them to prod, task, and QA groups in a single task?
+4. How to include and input parameters in a playbook?
+5. What are Ansible roles?
+6. Use of templates in Ansible
+7. Difference between templates and roles
+8. How to initialize a role and push it to Ansible Galaxy for public use
+9. How to encrypt a playbook?
+10. How to execute a vault file?
+11. How to use an environmental variable for passwords?
+12. Create a MySQL dump from encrypted data using an Ansible playbook — how to execute the steps?
+13. How to execute on all DB servers *excluding 1 server*?
+14. How to shut down all servers using an ad-hoc command?
+15. How to reduce execution time on RDBMS server?
+16. How to do that from an Ansible file?
+17. How to increase debug log level?
+18. Difference between static and dynamic inventory
+### 🧠 *Kubernetes*
+1. What is the architecture of Kubernetes?
+2. kubectl apply command – how the services are used?
+3. Deployment YAML file
+4. What are labels and annotations?
+5. Traffic coming from outside to a cluster
+6. What is the control manager’s task?
+7. Node affinity and anti-affinity
+8. How to run 2 pods with one depending on another – how to set roles?
+9. What is taint and toleration?
+10. Reason for taint in worker nodes
+11. How to limit resources in Kubernetes?
+12. Blue-Green deployment
+13. Canary deployment
+14. What is CSI?
+---
+1. AWS Lambda function and Step Function
+2. What are autoscaling policies and their uses?
+3. What is a target probe in autoscaling?
+4. Which role to give to access services in AWS?
+5. How to configure a role to service accounts?
+6. Service account end-to-en
+7. How to create a secret service account?
+8. Static vs dynamic storage provisioning
+9. Type of error in pod label
