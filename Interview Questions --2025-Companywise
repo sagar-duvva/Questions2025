@@ -1431,3 +1431,28 @@ Exp-9yrs 5yrs in devops
 7. How to create a secret service account?
 8. Static vs dynamic storage provisioning
 9. Type of error in pod label
+==============================================================================================================================>>>
+Company ---> Optum
+Exp--->5 Yrs
+What are the terraform lifecycle policies
+Why do we use workspace in terraform
+How do I transfer payloads between lambda function in 2 different AWS account
+How do you ensure the least privilege access to the IAM users
+What is terraform external command and when it should be used
+How do you ensure particular AMI image is present in AWS account using terraform
+What are terraform provisioners
+What are s3 bucket lifecycle policies? 
+What is meta-arguments in terraform
+
+================================================================================================================================================================>>>>>>
+Company ---> Persistent system
+Exp----->5 yrs
+1.Design an high availability and redundancy three tier architecture in azure
+2.Suppose you are having an e-commerce application  and slowness is there how will you troubleshoot 
+3.Design three architecture for front end and react js and backend as node js , which are the services you will use it in azure
+4.What are the steps involved in creating in azure devops pipeline 
+5.What is github actions 
+6.In azure monitor which metrics is used for monitoring kubernetes
+7.What is the module approach in terraform, explain on it
+8.Suppose there are 1000 of lines in terraform, as a period of time it grows, it becomes slow in future, how to approach this issue, please explain 
+9.Have you worked on python , devops 5 yrs of exp
