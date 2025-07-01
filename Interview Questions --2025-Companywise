@@ -1022,7 +1022,7 @@ EXP-- 2yrs in devop
 21.what is the command to use change file permission  linux?
 22.what is git stash?
 
-===================================================================================================================================>
+============================================================================================================================================================================================>
 Company -Morgan Stanley 
 EXP-- 7 YOE - Release engineer 
 
@@ -1046,7 +1046,7 @@ Ingress vs Egress
 How to fetch error from log files
 
 
-================================================================================================>
+=========================================================================================================================================================================>
 Company --koerber-pharma.com
 Exp --9 yrs Relevant (5 years)
 How to handle cost optimization in aws…how can we plan for cost optimization.
@@ -1086,7 +1086,7 @@ terraform uses real time issue we faced…what are the error u faced in terrafor
 different plugins for ci/cd in jenkins using aws platform
 service to monitor spike in aws .application cpu usuage in cloud.
 how to do backup from ebs volume and attach in another server
-=========================================================================================================================
+=================================================================================================================================================================================================>>>>>
 Company --JPMC ---
 Experience--
 -- 1st round
@@ -1138,7 +1138,7 @@ How do you deal with high-pressure situations or multiple critical deadlines?
 If your lead or team member is not technically strong or doesn’t behave well, how do you handle the situation and continue working as a team member?
 What do you do in your free time or on weekends?
 
-=======================================================================
+==============================================================================================================================================================================================>>>>
 Company--Accion labs
 Exp---17yrs SRE
 
@@ -1198,7 +1198,7 @@ How will you perform the patches regularly
 Git submodules, what is their purpose
 
 
-===============================================================================>>>
+==========================================================================================================================================================================================================>>>
 Company-- Akamai 
 Exp---8yrs  SRE
 
@@ -1232,7 +1232,7 @@ What are the parameters are used for HPA in K8s?
 How will take a backup of K8s clusters regularly
 How will you make sure EC2 is not deleted while running destroy command.
 
-=================================
+=================================>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 Company-- Persistent Systems
 Exp---9YOE DevOps - 5YOE
 
@@ -1269,7 +1269,7 @@ What is reverse proxy
 What is traffic mirroring in istio
 
 
-==================================================
+==============================================================================================================================================>>>>>>>>>
 Company-Persistent system 
 Exp----13 YOE -rele- 5yr DevOps Engineer
  1.Design an high availability and redundancy three tier architecture in azure
@@ -1282,7 +1282,7 @@ Exp----13 YOE -rele- 5yr DevOps Engineer
 8.Suppose there are 1000 of lines in terraform, as a period of time it grows, it becomes slow in future, how to approach this issue, please explain 
 9.Have you worked on python , 
 
-===============================================================================================
+==========================================================================================================================================================>>>>>>>
 Company----Synechron
 Exp----13 YOE - 5yr DevOps Engineer
 
@@ -1303,7 +1303,7 @@ What is azure artifact
 What is self hosted agent and Microsoft host agent 
 Docker cmd and entrypoint difference, how to configure sonarqube with azure
 
-=====================================================================================================>
+=====================================================================================================>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 Company----Sonata Software
 Exp---- 5yr DevOps Engineer
 1.what is the difference between application gateway and front door
@@ -1323,7 +1323,7 @@ what is the networking you are using in AKS
 15.have you ever used terraform cloud
 16.do you use helmchart for AKS deployements
 
-======================================================================================================================
+======================================================================================================================>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 Company----Accolite Interview Questions:
 Exp---- 3yr DevOps Engineer
 
@@ -1351,7 +1351,7 @@ What is CICD and explain in briefly
 Explain  kubernetes Architecture and component and their uses.
 Note -: Guy,s in Every question, they asked to explain in briefly and the code and how it using and what will be outputs. 
 
-=====================================================
+=====================================================>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 Company----LTI Mindtree
 Exp---5 year
 1.write terraform script for creating app service in azure or write terraform script to create lambda in aws 
@@ -1360,7 +1360,7 @@ Exp---5 year
 4.you have an application gateway, services which is in backend is good, you are getting 404 error ,how do you troubleshoot further 
 5.what is the difference between firewall and nsg
 
-=========================================================================================
+=========================================================================================>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 Company----Snychron 
 Exp---- 3yr DevOps Engineer
 Tell me the difference between Docker and Docker Compose ?
@@ -1385,7 +1385,7 @@ What is Monkey Patching?
 Have you worked on SRE ?
 Tell me the difference betweeen DEVOPS and SRE ?
 
-==============================================================================================>>>>
+==============================================================================================>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 Company--->Capgemini
 Exp-9yrs Relevant(5yrs in devops)
 1. What is an Ansible playbook?
@@ -1431,7 +1431,7 @@ Exp-9yrs Relevant(5yrs in devops)
 7. How to create a secret service account?
 8. Static vs dynamic storage provisioning
 9. Type of error in pod label
-==============================================================================================================================>>>
+==============================================================================================================================>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 Company ---> Optum
 Exp--->5 Yrs
 What are the terraform lifecycle policies
@@ -1444,7 +1444,7 @@ What are terraform provisioners
 What are s3 bucket lifecycle policies? 
 What is meta-arguments in terraform
 
-================================================================================================================================================================>>>>>>
+================================================================================================================================================================>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 Company ---> Persistent system
 Exp----->13yrs 5 yrs(devops)
 1.Design an high availability and redundancy three tier architecture in azure
@@ -1456,7 +1456,7 @@ Exp----->13yrs 5 yrs(devops)
 7.What is the module approach in terraform, explain on it
 8.Suppose there are 1000 of lines in terraform, as a period of time it grows, it becomes slow in future, how to approach this issue, please explain 
 9.Have you worked on python , devops 5 yrs of exp
-================================================================================================================================================================>>>>>4
+================================================================================================================================================================>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 Company ---> Deloitte 
 Exp-----> 4yrs(Linkedin)
 𝗥𝗼𝘂𝗻𝗱 𝟭: 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗰𝗿𝗲𝗲𝗻𝗶𝗻𝗴
@@ -1484,7 +1484,7 @@ How do you create AWS Lambda functions and manage the artifacts for deployment? 
 What is email signing and Helm chart signing? Which tools do you use to sign Helm charts?
 
 
-=================================================================================================================================================
+=================================================================================================================================================>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 Company ---> CTS
 Exp-----> 
 1.Day to day tasks
@@ -1534,3 +1534,115 @@ If you're storing all your VPC Flow logs in S3 bucket, how to see that
 API Gateway configuration
 Diff between Private and Public IPs
 Diff between Spot VS reserved instances
+================================================================================================================================================================================>>>
+Company ---> IBM cloud engineer
+Exp-----> 3.3 Year exp
+
+1. Tell me about yourself.
+2. What are your day-to-day activities?
+3. What is Terraform, and how does it work?
+4. Where do you run your Terraform code—on your local system or on a specific server in your organization?
+5. What is a tfstate file?
+6. Where do you store the tfstate file in your organization?
+7. What does the tfstate file actually do?
+8. Suppose another DevOps engineer on your team has made changes to an instance via the UI, and you then run the terraform plan command. What will be the output?
+9. What do the "+" and "−" symbols mean in the terraform plan output ?
+10. If changes have been made to an instance via the UI and you run terraform apply without first running terraform plan, what will happen? Will there be an error, and will it still execute?
+11. Suppose you're running an application and a vulnerability occurs, how would you handle it? Briefly explain.
+12. If it's a production server and you encounter a vulnerability, what will you do?
+13. If it’s a Python application and a vulnerability is found in production and fixing it may take 6 months, what is your approach and solution?
+14. Are you following any standards to handle such issues?
+15. Have you worked with Ansible?
+16. What is Ansible?
+17. Can you write a playbook?
+18. How do you store credentials in Ansible?
+19. Are you following any other approach to store secret credentials securely?
+20. How do you store variables in Ansible?
+21. How do you debug errors in an Ansible playbook, what is the comamand ?
+22. Suppose you want to execute a single command without writing a playbook — what is the command, and how do you write it?
+23. What modules have you worked with in Ansible? List their names.
+24. How do you deploy your application on AWS? What services do you use?
+25. When deploying your application to Amazon EKS, what other services do you use along with it?
+26. Have you worked with shell scripting and Python scripting?
+27. Where have you used Python in your work? What was the purpose, and what tasks did you perform?
+28. Have you worked with any monitoring tools? What tools, and what was your role in using them?
+29. How will you disable the root login into a particular server ?
+30. What is the file, you have made the changes , can you tell me the file name and pat
+
+========================================================================================================================================================================================================>
+Company ---> Elixr labs
+Exp-----> 
+1.what is land job activity in migration
+2.what type of basic azure services u will consider 
+4.Hub and Spoke topology 
+5.day to day actives what type of work ur doing is it a support/project 
+6.what type of pipelines ur handling basically it means QA ,UAT 
+7. how many team members are there?
+8. How about the deployment , IAAS model or Saas  model
+9.pick one requirement and u deployed end to end by using azure services 
+10. suppose there is a dotnet application which is basically a 3 -tier application ,for webapi deploymment i hvae used azure appservices, for background jobs i have used function apps ,and for messaging i have used servicebus and how about the connectivity to all thses?
+11.how on-premisis user has to access the application/access the code which was deployed in cloud service . how my connectivity will be configured ( on-premiss to cloud )
+12.IN general as azure specalist from ur side what is ur recomendation is it a sit-to-site vpn or Expressroute
+13.lets assume consider banking sector only i dont have that much budget but since ur telling that for low budget go for site-to-site-vpn but on otherside ur saying that express-route is more secure > So how cn u justy that, because banking costumer has a limitation for him
+14.IN which senario we will go for site-to-site vpn  and Expressroute 
+15.any storage related components have u worked on?
+16. lets say i have a condition i need to access the data which is stored in storage account but that is huge data which is comming from enduser perspective lets say some cppotency that is recording 24/7 and data will be stored but at the same time if anyone comes and to retrieve the data obviously they will get it from storage account,now i need to implement some cost optimisation techniques on storage account to reduce cose because data to be incresed daytoday ?whta afre the possible ways 
+with respective storageaccount
+16.suppose u have created a storage accouunt with hot-tier is it possible to change to cool-tier
+17. manually we can change from hottier to cool tier ,but when i have huge data it will take time right .
+18.Did u face  any challenges while ur taking backup? any issues 
+19. what type of services ur have used for backup .is it azure specific or any on-premisis
+20.what are the senarios u configured for DR?
+21.how about the monitoring techniques like any alerts we can 
+22.lets assume we got an requirement that we have a production infra running on azure cloud and we need to setup an alert mechanism where there some thresold values given by customers but considering huge infra but ur getting hundreds of alerts ,in that alert how can u segregate  that we need to findout ,which alert we need to proporitise ,any appriach u have ?
+23.Any known issues u encountered any pipeline is integrated/ any production code is ur pushing or production any known issue and tell which is critical and how u got resolved 
+24. Have u done any migration form on-premis to azure / from azure to azure with any scenarion and what shot of migrarion s it resource migration or data migration 
+25.what are the prechecks u have to consider before migration
+
+================================================================================================================================================================================================>>
+Company ---> Qentelli Solutions
+Exp-----> 5yrs
+1.create s3 bucket with terraform
+If developer sets private subnet to public, what should you do?
+3.KMS
+ELB inflow and outflow
+5.How you maanage resources in terraform
+write a shell script to backup logs last 7 days and remove older days.
+7.SG and NACL
+How do you secure your environments in aws
+9.soft link and hard link
+10.user not able to get ssh, what are troubleshooting steps to perfrom
+11.what are metrics in cloudwatch you should focus on.
+Your aws billing spikes, what should you check
+13.what are security options in aws
+
+=================================================================================================================================================================================================>>>>>>
+Company ---> NPCI
+Exp-----> 5yrs
+Docker:
+I can able to get access application from outside container but from inside getting packet loss. How do you trobleshoot.
+How do you get logs from docker level.
+Two containers are there. One with front end application and second container has db.Fisrt I want to start db then front end. What should you do?( 2tier application)
+Kubernetes:
+How do you call pod1 to pod2 without service.
+2.what is Container Network Interface
+3.what is CSI driver
+4.Static volume provisioning and dynamic volume provisioning. Explain in with use case.
+5.what is auto volume expansion.
+
+==============================================================================================================>>>>>
+
+Company---->>Orion Innovation
+Exp---- 5yr DevOps Engineer
+1.what is A record and what it will do in DNS
+2.what is the value of A record
+3.what is CName record in DNS
+4.what is MXRecord in DNS
+5.you want to store the secrets in Jenkins pipeline , how will you do it
+6.application gateway TLS certificate is expired, what steps you will follow to renew it
+7.in Kuberenets there are 10 worker nodes, I have to deploy tomcat on each pods , how will you achieve it
+I have an apache tomcat application running in k8 cluster, what are the manifests files you will be having inside in it
+9.application gateway is L7 or L4
+10.you have multiple VPC, how will you connect them in AWS
+11.an RDS is there in India region, I want to do read sync with RDS in London region, how will you implement it
+12.i have an local laptop, I want to access my hosted website, what service will be used in K8s
