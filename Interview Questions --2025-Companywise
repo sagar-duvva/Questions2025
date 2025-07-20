@@ -1794,3 +1794,120 @@ Tell what type of aumatation you have done that saved time in your project .
   securityContext:
     runAsNonRoot: true
     runAsUser: 0
+
+
+===============================================================================================================================================================================
+Company---->Sigmoid
+Exp---> 7 YOE DevOps Engineer
+Reverse the string using For loop
+Check if the palindrome using For loop
+"Hello World Hello" --> Check how many times hello got repeated
+Diff between replica set vs replication controller
+K8s backup policies
+How do you handle deployment failures
+What happens if master node fails suddenly
+
+==============================================================================================================================================================================
+Company---->J.P. Morgan Interview Questions
+Exp---> Senior DevOps Engineer
+1. You’ve deployed an app to Azure Kubernetes Service (AKS) and it fails health checks randomly. How do you debug this end-to-end?
+
+2. In a canary deployment to production, half the traffic returns 502, while others succeed. Walk us through your troubleshooting approach.
+
+3. CI/CD pipeline takes 40 mins to deploy a small change. What would you do to optimize it?
+
+4. You see high CPU usage in one pod, but logs look clean. What next?
+
+5. You’re asked to design a highly available logging system for 100+ microservices across 3 regions. What tools and architecture would you suggest?
+
+6. Production app works fine for internal users but fails for external ones (403 error). How will you isolate the issue?
+
+7. How do you ensure secure and dynamic secret rotation in Azure DevOps pipelines?
+
+8. Explain how you’d use Azure Application Gateway with Web Application Firewall for a sensitive banking application.
+
+9. During an Azure deployment, you receive intermittent DNS resolution issues. What can be the causes?
+
+10. A user reports 10-second delays every 15 minutes in an app running on AKS. No code changes happened. How would you begin RCA?
+
+11. Jenkins jobs are randomly failing at the artifact upload step. What layers would you check?
+
+12. How would you set up an automated rollback strategy in Kubernetes for failed deployments?
+
+13. Design a cost-optimized cloud architecture for an internal reporting app that runs every night and stores logs for 3 years.
+
+14. How do you handle zero-downtime database migrations in a distributed application?
+
+15. What’s your approach to disaster recovery for stateful apps running on containers?
+
+16. An Azure function is being throttled. How will you detect and fix it?
+
+17. Define a plan for blue/green deployment with rollback on Azure using Terraform and pipelines.
+
+18. How would you monitor end-to-end SLA for services involved in a payments pipeline?
+
+19. Explain the difference in scaling strategies for compute-intensive vs I/O-intensive workloads in Azure.
+
+20. Suppose your production pipeline is blocked due to missing approvals and stakeholders are unreachable. What will you do?
+
+==============================================================================================================================================================================
+Company---->Turning 
+Exp---> Cloud Engineer
+
+Failover happend in DB, so connection is switched from A to B, during this time interval, if user is writing some data, how to manage that ?
+Lamdba cold start
+AWS CDK commands
+How to implement TF in CD pipeline
+10 developers are checking in code in GIT, I want to remove the code checkin done by developer 10, how to do that ?
+If someone manually changed the EC2 config, which was created through TF, how to fix it ?
+I've payment gateway app running in Lambda, sometimes there was an issue with connecting to external API, how to cross check and fix it while performing the payment
+Purpose of Blue Green deployment and how will you switch back to diff deployments ?
+Write a script to check if the external API is reachable before starting the request.
+===========================================================================================================================================================
+Company---->Sigmoid
+Exp---> 7 YOE DevOps Engineer
+
+Terraform taint
+How to limit the resource usage in K8s
+asked me to write request and limit usage YAML file
+Write a deployment file for the below requirement
+*Create a Deployment named 'space-alien-welcome-message-generator' of image 'httpd:alpine' with one replica.
+*It should've a ReadinessProbe which executes the command 'stat /tmp/ready' . This means once the file exists the Pod should be ready.
+*The initialDelaySeconds should be 10 and periodSeconds should be 5
+
+If Liveness probe is healthy and readiness probe is failing, what will happen
+How will you find out the data loss while switching back to DBs
+Have you integrated Global LB with K8s cluster
+How to enable RBAC to Service accounts
+You created a resource through Terraform but it failed during provision, what will happen
+Purpose of using "null resource" in Terraform
+If some developer hardcoded password mistakenly in source code and pushed to repo, how to fix it in CI process
+If terraform deployment got failed, what will be the approach
+Write a script to capture the failures
+Input :
+2025-05-23 10:00:01 ERROR: Connection failed to database
+2025-05-23 10:01:02 INFO: Retrying connection
+2025-05-23 10:01:30 ERROR: Connection failed to database
+2025-05-23 10:02:10 ERROR: Connection failed to database
+2025-05-23 10:03:55 ERROR: Connection failed to database
+2025-05-23 10:06:00 INFO: Recovery attempt successful
+2025-05-23 10:07:20 ERROR: Timeout while reading from API
+2025-05-23 10:08:15 ERROR: Timeout while reading from API
+2025-05-23 10:09:10 ERROR: Timeout while reading
+output :
+[ALERT] 'Connection failed to database' occurred more than 3 times 
+[ALERT] 'Timeout while reading from API' occurred more than 3 
+
+DNS Custom resolver
+Metrics used for monitoring
+
+===============================================================================================================================================================================================
+Company---->Publics global delivery
+Exp---> 
+Kubernetes cluster upgrade from one version to another version? What is the approach?
+What is PDP in Kubernetes?
+How do you extract all git commits from last 3 days?
+How does authentication happen in Jenkins pipeline to use aws with particular login, if you have 1 logout?
+What are access modes in PVC?
+You have mongoDB db dump, from that you need to clear some space out of it. How will you do that?
+You have one stateful application, that needs to be deployed specified node in k8s, how?
