@@ -1911,3 +1911,76 @@ How does authentication happen in Jenkins pipeline to use aws with particular lo
 What are access modes in PVC?
 You have mongoDB db dump, from that you need to clear some space out of it. How will you do that?
 You have one stateful application, that needs to be deployed specified node in k8s, how?
+================================================================================================================================================================================================================
+Company---->Virtusa 
+Exp---> Tech lead 
+ difference between deployement and replicaset and daoemonset and statefulset (what key words you will be writing over the, for ex : deployement.yml – rolling update, canary)
+what is chart.yml file contains in K8
+what files will be present in helm chart
+what you will declare in values.yml etc
+what is node affinity and pod affinity  in K8
+what is taint and tolerations in K8
+what is the terraform command for unlock statefile
+what is module in terraform
+suppose there are multiple ec2 instances manually created via console, I have to update those ec2 instances via terraform, what is the command
+write python program for reverse a string
+what is list and tuple in python
+difference between entrypoint and cmd in docker
+what is the difference between copy and run command in docker
+suppose you are having an ecs task definition, I have an website , the developer is hitting the url or website, what will be the flow of traffic , fargate is a serverless – how do you achieve configuration DNS or website over there
+what is task definition in ecs
+image is there docker, I want to build an image, deploy to docker hub, tag it - commands in docker please
+am having some min max pods running, suppose on festival day traffic increases at that time I have to increase pods, when no traffic is there I have reduce the pods, how will you achieve it in K8
+difference between cloud formation and terraform
+what is the difference between ecs and fargate
+===========================================================================================================================
+Company---->Five9
+Exp---> 7 YOE
+
+How to find out second largest integer in an array
+How to set a CPU and memory limit in Linux machine
+TLS handshakes
+Apart from storing TF log files in S3, do we have any other options
+Different type of provisioners in TF
+Diff b/w Local and remote provisioners in TF runners
+Diff b/w user-data vs remote provisioner
+AAA and CNAME in DNS
+Fail over mechanism in DNS (if one IP is not reachable)
+How logs are segregated in ELK
+Apart from using password, how to login to EC2
+
+
+==============================================================================================================================================================
+Company---->Sigmoid 
+Exp---> 7 YOE
+If LB is created in us-south and that region is down what will happen ?
+If RDS is hosted in us-west region and has read replicas spread across other region, due to some issue us-west region is down, how will you redirect your traffic. But having one more DB is expensive to the client
+Which deployment strategy is best, assuming that you have only one POD is running
+If you're going with Blue Green deployment, how will you change your configuration to reroute the traffic between blue and green, exactly which configuration needs to changed?
+New web deployment was done today, how will you make sure that particular application is behaving and we need to find out the issues before user's figures out
+Practical difficulties in having the infra in two different regions
+Write a shell script to delete the log files which is older than 30 days
+Failover mechanism in LB
+Is it possible to have ASG and LB in different regions ?
+How to create sub user while writing Docker file
+Creating custom images
+How to enable Debug logs in Terraform
+Create system design for three tier architecture with secuirty and avalability in place.
+Create a python script for this requirement
+#Given a string s, find the length of the longest substring without duplicate characters.
+
+#Example 1:
+#Input: s = "abcabcbb"
+#Output: 3
+#Explanation: The answer is "abc", with the length of 3.
+
+#Example 2:
+#Input: s = "bbbbb"
+#Output: 1
+#Explanation: The answer is "b", with the length of 1.
+
+#Example 3:
+#Input: s = "pwwkew"
+#Output: 3
+#Explanation: The answer is "wke", with the length of 3.
+#Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
